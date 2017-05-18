@@ -1,2 +1,3 @@
 # MipsPipeline
-Mips pipeline simulator for basys3
+This project modified from David_Harris@hmc.edu single cycle mips code to mips pipiline.
+It designed for Basys3 FPGA coded in System Verilog
